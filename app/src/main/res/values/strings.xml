@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Media Play Demo</string>
+    <string name="play_audio">Sample audio</string>
+    <string name="play_video">Sample video</string>
+    <string name="pick_file">Pick local file</string>
+    <string name="hint">Start playback, then switch to another app. Audio keeps playing; control it from the notification.</string>
+</resources>
